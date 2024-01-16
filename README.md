@@ -1,1 +1,2 @@
-# depression-and-suscide-detection
+# Suicide and Depression using deep learning 
+Drove the conception and implementation of a cryptocurrency project using Python, showcasing a comprehensive understanding of blockchain technology and cryptographic principles. Developed a secure and decentralized digital currency system, employing smart contracts and cryptographic algorithms to ensure robust transaction integrity. Demonstrated proficiency in Python programming, cryptographic protocols, and blockchain architecture, contributing to a deeper understanding of decentralized financial technologies. This project underscores a strong commitment to staying at the forefront of emerging technologies and a passion for innovative solutions in the field of digital finance.
